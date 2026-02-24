@@ -357,18 +357,5 @@ response = requests.post("http://localhost:8000/predict", json=payload)
 print(response.json())
 ```
 
-## 📝 License
-
-[Add your license here]
-
-## 👤 Author
-
-[Your name/team]
-
-## 📞 Support
-
-For issues, questions, or contributions, please [create an issue on GitHub](https://github.com/your-repo/issues).
-
----
-
 **Happy Inferencing! 🎯**
+
