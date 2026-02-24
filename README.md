@@ -357,5 +357,4 @@ response = requests.post("http://localhost:8000/predict", json=payload)
 print(response.json())
 ```
 
-**Happy Inferencing! 🎯**
 
